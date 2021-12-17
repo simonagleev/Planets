@@ -1,0 +1,197 @@
+body {
+    font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background: #fff;
+    color: #333;
+    line-height: 1.15;
+    margin: 0;
+    min-width: 400px;
+}
+
+.header-container{
+
+    height: 60px;
+    border-bottom: 1px solid #999;
+}
+.header-link{
+    text-decoration: none;
+    font-family: 'New Century Schoolbook', serif;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 700;
+    color: #333;
+    padding: 20px 10px 20px 10px;
+
+}
+
+.header-link:hover{
+    text-decoration: underline;
+}
+
+.header-link-container{
+    padding: 10px 0;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.main-container{
+    margin: 0  auto;
+    max-width: 1050px;
+}
+
+h1{
+    color: #343434;
+    font-size: 24px;
+    margin: 20px 0px 18px 5px;
+}
+
+.blue-div{
+    color: #215169;
+    border-color: #b5d8e9;
+    background: #d9edf7;
+}
+
+.border{
+    border: 1px solid #aeaeae;
+    border-radius: 4px;
+    padding: 15px;
+    margin: 15px 5px 10px 5px;
+    text-align: left;
+    overflow: hidden;
+}
+
+.top{
+    display: flex;
+    justify-content: center;
+    font-size: 190%;
+    margin: 10px 0px;
+
+}
+
+.ves-text{
+    margin-top: 20px;
+}
+
+input{
+    width: 126px;
+    padding: 10px;
+    color: #666;
+    border: 2px solid #E8E8E8;
+    border-radius: 3px;
+    margin: 10px 5px 10px 5px;
+    font-size: 100%;
+    text-align: center;
+}
+
+.planet{
+    display: flex;
+    font-size: 190%;
+}
+
+.planet-text{
+    font-size: 80%;
+}
+
+.planet-result{
+    border: 2px solid #E8E8E8;
+    border-radius: 3px;
+    margin-left: 10px;
+    color: #666;
+    font-size: 80%;
+    min-width: 100px;
+}
+.sun{
+    background-image: url(https://poschitat.online/img/bg_sun.jpg);
+    background-repeat: no-repeat;
+    background-position: 100% 0%;
+    background-size: auto 120%;
+}
+
+.moon{
+    background-image: url(https://poschitat.online/img/bg_moon.jpg);
+    background-position: 100% 0%;
+    background-size: auto 120%;
+    background-repeat: no-repeat;
+}
+
+.mercury{
+    background-image: url(https://poschitat.online/img/mg_mercury.jpg);
+    background-position: 100% 0%;
+    background-size: auto 120%;
+    background-repeat: no-repeat;
+}
+
+.venus{
+    background-image: url(https://poschitat.online/img/bg_venus.jpg);
+    background-position: 100% 0%;
+    background-size: auto 120%;
+    background-repeat: no-repeat;
+}
+
+.mars{
+    background-image: url(https://poschitat.online/img/bg_mars.jpg);
+    background-position: 100% 0%;
+    background-size: auto 120%;
+    background-repeat: no-repeat;
+}
+
+.saturn{
+    background-image: url(https://poschitat.online/img/bg_saturn.jpg);
+    background-position: 100% 0%;
+    background-size: auto 120%;
+    background-repeat: no-repeat;
+}
+
+.jupiter{
+    background-image: url(https://poschitat.online/img/bg_jupiter.jpg);
+    background-position: 100% 0%;
+    background-size: auto 120%;
+    background-repeat: no-repeat;
+}
+
+.neptune{
+    background-image: url(https://poschitat.online/img/bg_neptune.jpg);
+    background-position: 100% 0%;
+    background-size: auto 120%;
+    background-repeat: no-repeat;
+}
+
+.uranus{
+    background-image: url(https://poschitat.online/img/bg_uranus.jpg);
+    background-position: 100% 0%;
+    background-size: auto 120%;
+    background-repeat: no-repeat;
+}
+
+.pluto{
+    background-image: url(https://poschitat.online/img/bg_pluto.jpg);
+    background-position: 100% 0%;
+    background-size: auto 120%;
+    background-repeat: no-repeat;
+}
+.io{
+    background-image: url(https://poschitat.online/img/bg_io.jpg);
+    background-position: 100% 0%;
+    background-size: auto 120%;
+    background-repeat: no-repeat;
+}
+
+.europe{
+    background-image: url(https://poschitat.online/img/bg_europa.jpg);
+    background-position: 100% 0%;
+    background-size: auto 120%;
+    background-repeat: no-repeat;
+}
+
+.ganimed{
+    background-image: url(https://poschitat.online/img/bg_ganymede.jpg);
+    background-position: 100% 0%;
+    background-size: auto 120%;
+    background-repeat: no-repeat;
+}
+
+.calypso{
+    background-image: url(https://poschitat.online/img/bg_callisto.jpg);
+    background-position: 100% 0%;
+    background-size: auto 120%;
+    background-repeat: no-repeat;
+}
